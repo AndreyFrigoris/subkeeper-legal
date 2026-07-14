@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sub Keeper — About</title>
+  <link rel="stylesheet" href="assets/site.css" />
+</head>
+<body>
+  <main class="wrap">
+    <nav class="nav">
+      <a href="index.html">Legal home</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+      <a href="about.html">About</a>
+    </nav>
+    <div id="langs" class="langs" aria-label="Language"></div>
+    <article id="content" class="panel muted">Loading…</article>
+    <p class="foot">Source: <code>about.md</code> · In the app, <code>{version}</code> is replaced with the build version.</p>
+  </main>
+  <script src="assets/doc.js"></script>
+  <script>
+    SubKeeperLegal.mountDocument({
+      source: "about.md",
+      targetId: "content",
+      defaultLocale: "en",
+    });
+  </script>
+</body>
+</html>

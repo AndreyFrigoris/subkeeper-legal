@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-Last updated: July 14, 2026
+Last updated: July 16, 2026
 
 Sub Keeper ("we", "the app") respects your privacy. This policy explains what information the app processes and how.
 
@@ -13,6 +13,8 @@ Sub Keeper ("we", "the app") respects your privacy. This policy explains what in
 - With your permission, we use **approximate location to detect your country** for regional price suggestions
 - Optional feedback you send is delivered via **Telegram Bot API**
 - Optional tips and Premium purchases are processed by **Google Play** or the **App Store**
+- On Android, optional **rewarded ads** (Google AdMob) may use the device advertising ID
+- We use **Firebase Crashlytics** for crash reports (not for marketing analytics)
 - We do **not** sell your personal data
 
 ## Information you provide
@@ -61,15 +63,27 @@ Optional **tips** and **Premium** purchases (when available) are processed by Ap
 
 You may export or import a backup file (JSON) from Settings. Export/import happens on your device or through the system share sheet / file picker you choose. We do not host your backup files on our servers.
 
-## Analytics and ads
+## Ads (Android)
 
-The current version does not include third-party analytics SDKs or advertising SDKs. Debug logging may occur in development builds only and is not sent to us automatically. If this changes, we will update this policy and store disclosures.
+On Android, if you reach the free subscription limit, you may choose to watch an optional **rewarded ad** (Google AdMob) to unlock one extra subscription slot. We do not show banner or interstitial ads.
+
+AdMob and related Google advertising services may process device identifiers such as the **Advertising ID**, approximate device/network information, and ad interaction data to deliver and measure ads. This processing is subject to Google’s privacy policies. You can reset or limit the Advertising ID in your device settings.
+
+Rewarded ads do **not** unlock Premium or custom-subscription features beyond the documented bonus slot.
+
+## Crash reporting
+
+We use **Firebase Crashlytics** (Google) to collect crash and stability reports so we can fix bugs. Reports may include device model, OS version, app version, stack traces, and similar technical diagnostics. They do **not** include your full subscription list or feedback message content.
+
+Crash collection is intended for release and profile builds; development (debug) builds typically do not send reports. Google’s processing of Crashlytics data is subject to Google’s privacy terms for Firebase.
+
+We do **not** currently use Google Analytics or other third-party marketing analytics SDKs. If that changes, we will update this policy and store disclosures.
 
 ## Data retention and deletion
 
 Local data remains on your device until you delete it in the app or uninstall the application. Uninstalling removes locally stored data.
 
-For feedback already sent via Telegram, contact us at the email below to request deletion where feasible.
+For feedback already sent via Telegram, contact us at the email below to request deletion where feasible. Crash reports retained by Firebase follow Google’s retention practices for Crashlytics.
 
 ## Children's privacy
 
@@ -91,7 +105,7 @@ Depending on your location (including the EU/EEA and Ukraine), you may have righ
 
 # Політика конфіденційності
 
-Останнє оновлення: 14 липня 2026
+Останнє оновлення: 16 липня 2026
 
 Sub Keeper («ми», «застосунок») поважає вашу конфіденційність. Ця політика пояснює, яку інформацію обробляє застосунок і як.
 
@@ -102,6 +116,8 @@ Sub Keeper («ми», «застосунок») поважає вашу конф
 - З вашого дозволу використовується **приблизна геолокація для визначення країни** та підказок цін
 - Необов’язковий feedback надсилається через **Telegram Bot API**
 - Чайові та покупки Premium обробляють **Google Play** або **App Store**
+- На Android можлива **винагороджувальна реклама** (Google AdMob) з Advertising ID
+- Для звітів про збої використовується **Firebase Crashlytics** (не маркетингова аналітика)
 - Ми **не продаємо** ваші персональні дані
 
 ## Інформація, яку ви надаєте
@@ -148,13 +164,25 @@ Sub Keeper («ми», «застосунок») поважає вашу конф
 
 Ви можете експортувати / імпортувати резервну копію (JSON) у Налаштуваннях. Файли залишаються у вас (share sheet / файловий менеджер). Ми не хостимо ваші бекапи.
 
-## Аналітика та реклама
+## Реклама (Android)
 
-У поточній версії немає сторонніх SDK аналітики чи реклами. Debug-логи — лише в розробницьких збірках. При зміні ми оновимо цю політику.
+На Android після досягнення безкоштовного ліміту підписок ви можете за бажанням переглянути **винагороджувальну рекламу** (Google AdMob), щоб отримати +1 слот. Банерів і interstitial немає.
+
+AdMob / сервіси Google можуть обробляти **Advertising ID**, приблизні дані пристрою/мережі та взаємодію з рекламою. Це регулюється політиками Google. Advertising ID можна скинути або обмежити в налаштуваннях пристрою.
+
+Реклама **не** відкриває Premium і не розблоковує custom поза задокументованим бонус-слотом.
+
+## Звіти про збої
+
+Ми використовуємо **Firebase Crashlytics** (Google) для звітів про збої: модель пристрою, версія ОС і застосунку, stack trace та подібна технічна діагностика. **Повний список підписок** і текст feedback туди не потрапляють.
+
+Збір зазвичай увімкнено в release / profile; у debug-збірках звіти зазвичай не надсилаються. Обробка Google — за умовами Firebase.
+
+**Google Analytics** та інші маркетингові SDK аналітики зараз **не** використовуються. При зміні оновимо політику.
 
 ## Зберігання та видалення
 
-Локальні дані можна видалити в застосунку або деінсталяцією. Щодо вже надісланого feedback — напишіть на email нижче.
+Локальні дані можна видалити в застосунку або деінсталяцією. Щодо вже надісланого feedback — напишіть на email нижче. Звіти Crashlytics зберігаються за практиками Google.
 
 ## Діти
 
@@ -176,7 +204,7 @@ support@subkeeper.app
 
 # Политика конфиденциальности
 
-Последнее обновление: 14 июля 2026
+Последнее обновление: 16 июля 2026
 
 Sub Keeper («мы», «приложение») уважает вашу конфиденциальность. Эта политика объясняет, какую информацию обрабатывает приложение и как.
 
@@ -187,6 +215,8 @@ Sub Keeper («мы», «приложение») уважает вашу конф
 - С вашего разрешения используется **приблизительная геолокация для определения страны** и подсказок цен
 - Необязательный feedback отправляется через **Telegram Bot API**
 - Чаевые и покупки Premium обрабатывают **Google Play** или **App Store**
+- На Android возможна **вознаграждаемая реклама** (Google AdMob) с Advertising ID
+- Для отчётов о сбоях используется **Firebase Crashlytics** (не маркетинговая аналитика)
 - Мы **не продаём** ваши персональные данные
 
 ## Информация, которую вы предоставляете
@@ -233,13 +263,25 @@ Sub Keeper («мы», «приложение») уважает вашу конф
 
 Вы можете экспортировать / импортировать резервную копию (JSON) в Настройках. Файлы остаются у вас (share sheet / файловый менеджер). Мы не хостим ваши бэкапы.
 
-## Аналитика и реклама
+## Реклама (Android)
 
-В текущей версии нет сторонних SDK аналитики или рекламы. Debug-логи — только в разработческих сборках. При изменении мы обновим эту политику.
+На Android после достижения бесплатного лимита подписок вы можете по желанию посмотреть **вознаграждаемую рекламу** (Google AdMob), чтобы получить +1 слот. Баннеров и interstitial нет.
+
+AdMob / сервисы Google могут обрабатывать **Advertising ID**, приблизительные данные устройства/сети и взаимодействие с рекламой. Это регулируется политиками Google. Advertising ID можно сбросить или ограничить в настройках устройства.
+
+Реклама **не** открывает Premium и не разблокирует custom сверх задокументированного бонус-слота.
+
+## Отчёты о сбоях
+
+Мы используем **Firebase Crashlytics** (Google) для отчётов о сбоях: модель устройства, версия ОС и приложения, stack trace и похожая техническая диагностика. **Полный список подписок** и текст feedback туда не попадают.
+
+Сбор обычно включён в release / profile; в debug-сборках отчёты обычно не отправляются. Обработка Google — по условиям Firebase.
+
+**Google Analytics** и другие маркетинговые SDK аналитики сейчас **не** используются. При изменении обновим политику.
 
 ## Хранение и удаление
 
-Локальные данные можно удалить в приложении или деинсталляцией. По уже отправленному feedback — напишите на email ниже.
+Локальные данные можно удалить в приложении или деинсталляцией. По уже отправленному feedback — напишите на email ниже. Отчёты Crashlytics хранятся по практикам Google.
 
 ## Дети
 

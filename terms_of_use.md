@@ -2,7 +2,7 @@
 
 # Terms of Use
 
-Last updated: July 14, 2026
+Last updated: September 12, 2026
 
 These Terms of Use ("Terms") govern your use of the Sub Keeper mobile application ("App"). By using the App, you agree to these Terms.
 
@@ -37,7 +37,7 @@ Some features may be limited on the free tier or require Sub Keeper Premium (for
 
 ## 7. Third-party services
 
-The App may link to third-party websites (for example subscription management pages), send optional feedback via Telegram, open tip/payment flows in stores, and use third-party hosts for public price or currency data. We are not responsible for third-party content, pricing, availability, or privacy practices.
+The App may link to third-party websites (for example subscription management pages), send optional feedback via Telegram, open the Google Play or App Store listing for ratings (including the system in-app review dialog when available), open tip/payment flows in stores, and use third-party hosts for public price or currency data. We are not responsible for third-party content, pricing, availability, or privacy practices.
 
 ## 8. Intellectual property
 
@@ -71,7 +71,7 @@ support@subkeeper.app
 
 # Умови використання
 
-Останнє оновлення: 14 липня 2026
+Останнє оновлення: 12 вересня 2026
 
 Ці Умови використання («Умови») регулюють використання мобільного застосунку Sub Keeper («Застосунок»). Користуючись Застосунком, ви погоджуєтеся з цими Умовами.
 
@@ -106,7 +106,7 @@ Sub Keeper — інструмент для особистого обліку п�
 
 ## 7. Сторонні сервіси
 
-Застосунок може відкривати сайти третіх сторін, надсилати feedback через Telegram, використовувати платежі магазинів і сторонні джерела цін/курсів. Ми не відповідаємо за їхній контент, ціни чи політику конфіденційності.
+Застосунок може відкривати сайти третіх сторін, надсилати feedback через Telegram, відкривати сторінку Google Play або App Store для оцінки (включно із системним вікном оцінки, коли доступне), використовувати платежі магазинів і сторонні джерела цін/курсів. Ми не відповідаємо за їхній контент, ціни чи політику конфіденційності.
 
 ## 8. Інтелектуальна власність
 
@@ -140,7 +140,7 @@ support@subkeeper.app
 
 # Условия использования
 
-Последнее обновление: 14 июля 2026
+Последнее обновление: 12 сентября 2026
 
 Настоящие Условия использования («Условия») регулируют использование мобильного приложения Sub Keeper («Приложение»). Используя Приложение, вы соглашаетесь с этими Условиями.
 
@@ -175,7 +175,7 @@ Sub Keeper — инструмент для личного учёта подпи�
 
 ## 7. Сторонние сервисы
 
-Приложение может открывать сайты третьих лиц, отправлять feedback через Telegram, использовать платежи магазинов и сторонние источники цен/курсов. Мы не отвечаем за их контент, цены или политику конфиденциальности.
+Приложение может открывать сайты третьих лиц, отправлять feedback через Telegram, открывать страницу Google Play или App Store для оценки (включая системное окно оценки, когда оно доступно), использовать платежи магазинов и сторонние источники цен/курсов. Мы не отвечаем за их контент, цены или политику конфиденциальности.
 
 ## 8. Интеллектуальная собственность
 

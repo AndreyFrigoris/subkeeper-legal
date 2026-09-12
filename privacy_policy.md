@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-Last updated: July 16, 2026
+Last updated: September 12, 2026
 
 Sub Keeper ("we", "the app") respects your privacy. This policy explains what information the app processes and how.
 
@@ -15,6 +15,7 @@ Sub Keeper ("we", "the app") respects your privacy. This policy explains what in
 - Optional tips and Premium purchases are processed by **Google Play** or the **App Store**
 - On Android, optional **rewarded ads** (Google AdMob) may use the device advertising ID
 - We use **Firebase Crashlytics** for crash reports (not for marketing analytics)
+- Optional **ratings** go through Google Play or the App Store, not our servers
 - We do **not** sell your personal data
 
 ## Information you provide
@@ -54,6 +55,10 @@ If you enable reminders, the app schedules **local notifications** on your devic
 ## Feedback
 
 If you use in-app Feedback, the message text and basic app metadata (platform, app version, UI language) are sent to us through **Telegram’s Bot API**. Do not include passwords, payment card numbers, or other highly sensitive data in feedback. Telegram’s processing is subject to Telegram’s own terms and privacy policy.
+
+## Ratings and reviews
+
+You can open the Google Play or App Store listing from Settings to leave a public review. On a copy installed from the store we may also show the **system in-app review** dialog provided by Google or Apple. We do not receive your star rating or review text. We do not show a custom “rate 5 stars” screen or block the app until you rate.
 
 ## Purchases and tips
 
@@ -105,7 +110,7 @@ Depending on your location (including the EU/EEA and Ukraine), you may have righ
 
 # Політика конфіденційності
 
-Останнє оновлення: 16 липня 2026
+Останнє оновлення: 12 вересня 2026
 
 Sub Keeper («ми», «застосунок») поважає вашу конфіденційність. Ця політика пояснює, яку інформацію обробляє застосунок і як.
 
@@ -118,6 +123,7 @@ Sub Keeper («ми», «застосунок») поважає вашу конф
 - Чайові та покупки Premium обробляють **Google Play** або **App Store**
 - На Android можлива **винагороджувальна реклама** (Google AdMob) з Advertising ID
 - Для звітів про збої використовується **Firebase Crashlytics** (не маркетингова аналітика)
+- Необов’язкові **оцінки** проходять через Google Play або App Store, не через наші сервери
 - Ми **не продаємо** ваші персональні дані
 
 ## Інформація, яку ви надаєте
@@ -155,6 +161,10 @@ Sub Keeper («ми», «застосунок») поважає вашу конф
 ## Зворотний зв’язок
 
 Текст feedback і базові метадані (платформа, версія, мова інтерфейсу) надсилаються нам через **Telegram Bot API**. Не надсилайте паролі чи дані карток. Обробка Telegram регулюється їхніми правилами.
+
+## Оцінки та відгуки
+
+У Налаштуваннях можна відкрити сторінку Google Play або App Store, щоб залишити публічний відгук. У копії з магазину ми можемо також показати **системне вікно оцінки** Google або Apple. Текст і зірки відгуку нам не надходять. Ми не показуємо власний екран «поставте 5 зірок» і не блокуємо застосунок, доки ви не оціните.
 
 ## Покупки та чайові
 
@@ -204,7 +214,7 @@ support@subkeeper.app
 
 # Политика конфиденциальности
 
-Последнее обновление: 16 июля 2026
+Последнее обновление: 12 сентября 2026
 
 Sub Keeper («мы», «приложение») уважает вашу конфиденциальность. Эта политика объясняет, какую информацию обрабатывает приложение и как.
 
@@ -217,6 +227,7 @@ Sub Keeper («мы», «приложение») уважает вашу конф
 - Чаевые и покупки Premium обрабатывают **Google Play** или **App Store**
 - На Android возможна **вознаграждаемая реклама** (Google AdMob) с Advertising ID
 - Для отчётов о сбоях используется **Firebase Crashlytics** (не маркетинговая аналитика)
+- Необязательные **оценки** проходят через Google Play или App Store, не через наши серверы
 - Мы **не продаём** ваши персональные данные
 
 ## Информация, которую вы предоставляете
@@ -254,6 +265,10 @@ Sub Keeper («мы», «приложение») уважает вашу конф
 ## Обратная связь
 
 Текст feedback и базовые метаданные (платформа, версия, язык интерфейса) отправляются нам через **Telegram Bot API**. Не отправляйте пароли или данные карт. Обработка Telegram регулируется их правилами.
+
+## Оценки и отзывы
+
+В Настройках можно открыть страницу Google Play или App Store, чтобы оставить публичный отзыв. В копии из магазина мы можем также показать **системное окно оценки** Google или Apple. Текст и звёзды отзыва нам не приходят. Мы не показываем собственный экран «поставьте 5 звёзд» и не блокируем приложение, пока вы не оцените.
 
 ## Покупки и чаевые
 

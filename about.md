@@ -13,6 +13,7 @@ Sub Keeper helps you track recurring subscriptions, see upcoming charges, and un
 - Browse service templates with suggested regional prices
 - Export / import a local JSON backup
 - Send optional feedback to the developer
+- Rate the app from Settings (store listing or the system in-app review dialog)
 - Support the developer with an optional tip (separate from Premium)
 
 ## Data storage
@@ -63,6 +64,7 @@ Sub Keeper допомагає відстежувати регулярні під
 - Шаблони сервісів із орієнтовними регіональними цінами
 - Експорт / імпорт локального JSON-бекапу
 - Необов’язковий feedback розробнику
+- Оцінка застосунку в Налаштуваннях (сторінка магазину або системне вікно оцінки)
 - Підтримка розробника чайовими (окремо від Premium)
 
 ## Зберігання даних
@@ -113,6 +115,7 @@ Sub Keeper помогает отслеживать регулярные подп
 - Шаблоны сервисов с ориентировочными региональными ценами
 - Экспорт / импорт локального JSON-бэкапа
 - Необязательный feedback разработчику
+- Оценка приложения в Настройках (страница магазина или системное окно оценки)
 - Поддержка разработчика чаевыми (отдельно от Premium)
 
 ## Хранение данных

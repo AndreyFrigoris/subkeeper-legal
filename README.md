@@ -10,20 +10,25 @@ Canonical copies also live in the app repo at `keeper_app/legal/` and are shown 
 | Terms of Use | [`terms_of_use.md`](terms_of_use.md) | [/terms.html](terms.html) |
 | About | [`about.md`](about.md) | [/about.html](about.html) |
 | License (these docs) | [`LICENSE`](LICENSE) | CC BY 4.0 |
+| AdMob app-ads.txt | [`app-ads.txt`](app-ads.txt) | [/app-ads.txt](https://subkeeper.app/app-ads.txt) |
 
 Each Markdown file contains **EN / UK / RU** sections separated by `<!-- locale:xx -->` markers (same format as the mobile app).
 
+`app-ads.txt` is **not** an in-app legal document. It lives only in this repo (GitHub Pages root) so AdMob can verify publisher `pub-5308769401439593`. Do not copy it into `keeper_app/legal/`.
+
 ## Play Console / store URL
 
-Use the **Privacy Policy** page:
+Privacy for store listings:
 
 ```text
-https://andreyfrigoris.github.io/subkeeper-legal/privacy.html
+https://subkeeper.app/privacy.html
 ```
 
-(After GitHub Pages is enabled on this repo.)
+AdMob authorized sellers (developer website in the Play listing must be `https://subkeeper.app`):
 
-Later you may point `https://subkeeper.app/privacy` at the same content.
+```text
+https://subkeeper.app/app-ads.txt
+```
 
 ## Sync workflow (when product changes)
 
@@ -31,6 +36,8 @@ Later you may point `https://subkeeper.app/privacy` at the same content.
 2. Copy the same four files into this repo (`privacy_policy.md`, `terms_of_use.md`, `about.md`, `LICENSE` if needed).
 3. Commit & push this repo so GitHub Pages updates.
 4. Bump “Last updated” dates inside the locale sections.
+
+`app-ads.txt` is independent of that sync: edit it only here, then push. Confirm `https://subkeeper.app/app-ads.txt` returns 200 `text/plain`.
 
 Do **not** invent store-only legal text that is missing from the app copy (or vice versa).
 

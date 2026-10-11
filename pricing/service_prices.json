@@ -1,0 +1,434 @@
+{
+  "version": 2,
+  "updatedAt": "2026-09-21",
+  "services": {
+    "sub_keeper": {
+      "USD": { "monthly": 3.99, "yearly": 39.99 },
+      "EUR": { "monthly": 3.99, "yearly": 39.99 },
+      "GBP": { "monthly": 3.49, "yearly": 34.99 },
+      "UAH": { "monthly": 159, "yearly": 1599 }
+    },
+    "netflix": {
+      "USD": {
+        "plans": [
+          {
+            "id": "standard_ads",
+            "name": "Standard with ads",
+            "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 6.99 }]
+          },
+          {
+            "id": "standard",
+            "name": "Standard",
+            "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 15.49 }]
+          },
+          {
+            "id": "premium",
+            "name": "Premium",
+            "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 22.99 }]
+          }
+        ]
+      },
+      "EUR": {
+        "plans": [
+          { "id": "standard", "name": "Standard", "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 13.99 }] },
+          { "id": "premium", "name": "Premium", "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 19.99 }] }
+        ]
+      },
+      "UAH": {
+        "plans": [
+          { "id": "standard", "name": "Standard", "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 279 }] },
+          { "id": "premium", "name": "Premium", "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 399 }] }
+        ]
+      }
+    },
+    "youtube_premium": {
+      "USD": {
+        "plans": [
+          {
+            "id": "individual",
+            "name": "Individual",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 13.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 139.99 }
+            ]
+          },
+          {
+            "id": "family",
+            "name": "Family",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 22.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 229.99 }
+            ]
+          }
+        ]
+      },
+      "EUR": { "monthly": 11.99, "yearly": 119.99 },
+      "GBP": { "monthly": 12.99, "yearly": 129.99 },
+      "UAH": { "monthly": 149, "yearly": 1490 }
+    },
+    "spotify": {
+      "USD": {
+        "plans": [
+          {
+            "id": "individual",
+            "name": "Individual",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 11.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 119.88 }
+            ]
+          },
+          {
+            "id": "student",
+            "name": "Student",
+            "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 5.99 }]
+          },
+          {
+            "id": "duo",
+            "name": "Duo",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 16.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 169 }
+            ]
+          },
+          {
+            "id": "family",
+            "name": "Family",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 19.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 199 }
+            ]
+          }
+        ]
+      },
+      "EUR": {
+        "plans": [
+          {
+            "id": "individual",
+            "name": "Individual",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 10.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 109.99 }
+            ]
+          },
+          {
+            "id": "family",
+            "name": "Family",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 17.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 179 }
+            ]
+          }
+        ]
+      },
+      "UAH": {
+        "plans": [
+          {
+            "id": "individual",
+            "name": "Individual",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 119 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 1190 }
+            ]
+          }
+        ]
+      }
+    },
+    "disney_plus": {
+      "USD": { "monthly": 9.99, "yearly": 99.99 },
+      "EUR": { "monthly": 8.99, "yearly": 89.99 },
+      "GBP": { "monthly": 7.99, "yearly": 79.99 },
+      "UAH": { "monthly": 149, "yearly": 1490 }
+    },
+    "apple_music": {
+      "USD": { "monthly": 10.99, "yearly": 109 },
+      "EUR": { "monthly": 10.99, "yearly": 109 },
+      "GBP": { "monthly": 10.99, "yearly": 109 },
+      "UAH": { "monthly": 99, "yearly": 990 }
+    },
+    "max": {
+      "USD": { "monthly": 16.99, "yearly": 169.99 },
+      "EUR": { "monthly": 9.99, "yearly": 99.99 },
+      "GBP": { "monthly": 9.99, "yearly": 99.99 },
+      "UAH": { "monthly": 199, "yearly": 1990 }
+    },
+    "apple_tv": {
+      "USD": { "monthly": 9.99, "yearly": 99 },
+      "EUR": { "monthly": 9.99, "yearly": 99 },
+      "GBP": { "monthly": 8.99, "yearly": 89 },
+      "UAH": { "monthly": 99, "yearly": 990 }
+    },
+    "xbox_game_pass": {
+      "USD": {
+        "plans": [
+          {
+            "id": "essential",
+            "name": "Essential",
+            "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 9.99 }]
+          },
+          {
+            "id": "premium",
+            "name": "Premium",
+            "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 14.99 }]
+          },
+          {
+            "id": "ultimate",
+            "name": "Ultimate",
+            "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 19.99 }]
+          }
+        ]
+      },
+      "EUR": { "monthly": 12.99, "yearly": 155.88 },
+      "UAH": { "monthly": 299, "yearly": 3590 }
+    },
+    "ps_plus": {
+      "USD": {
+        "plans": [
+          {
+            "id": "essential",
+            "name": "Essential",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 9.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 79.99 }
+            ]
+          },
+          {
+            "id": "extra",
+            "name": "Extra",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 14.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 134.99 }
+            ]
+          },
+          {
+            "id": "premium",
+            "name": "Premium",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 17.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 159.99 }
+            ]
+          }
+        ]
+      },
+      "UAH": { "monthly": 349, "yearly": 2599 }
+    },
+    "icloud": {
+      "USD": {
+        "plans": [
+          { "id": "50gb", "name": "50 GB", "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 0.99 }] },
+          { "id": "200gb", "name": "200 GB", "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 2.99 }] },
+          { "id": "2tb", "name": "2 TB", "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 9.99 }] }
+        ]
+      },
+      "EUR": { "monthly": 0.99, "yearly": 9.99 },
+      "UAH": { "monthly": 39, "yearly": 390 }
+    },
+    "google_one": {
+      "USD": {
+        "plans": [
+          { "id": "100gb", "name": "100 GB", "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 1.99 }] },
+          { "id": "200gb", "name": "200 GB", "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 2.99 }] },
+          { "id": "2tb", "name": "2 TB", "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 9.99 }] }
+        ]
+      },
+      "EUR": { "monthly": 1.99, "yearly": 19.99 },
+      "UAH": { "monthly": 79, "yearly": 790 }
+    },
+    "chatgpt_plus": {
+      "USD": {
+        "plans": [
+          {
+            "id": "plus",
+            "name": "Plus",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 20 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 200 }
+            ]
+          }
+        ]
+      },
+      "EUR": { "monthly": 20, "yearly": 200 },
+      "UAH": { "monthly": 799, "yearly": 7990 }
+    },
+    "cursor": {
+      "USD": {
+        "plans": [
+          {
+            "id": "pro",
+            "name": "Pro",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 20 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 200 }
+            ]
+          },
+          {
+            "id": "business",
+            "name": "Business",
+            "options": [{ "id": "monthly", "label": "Monthly", "months": 1, "amount": 40 }]
+          }
+        ]
+      },
+      "EUR": {
+        "plans": [
+          {
+            "id": "pro",
+            "name": "Pro",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 20 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 200 }
+            ]
+          }
+        ]
+      }
+    },
+    "microsoft_365": {
+      "USD": { "monthly": 9.99, "yearly": 99.99 },
+      "EUR": { "monthly": 10, "yearly": 99 },
+      "UAH": { "monthly": 399, "yearly": 3990 }
+    },
+    "nordvpn": {
+      "USD": {
+        "plans": [
+          {
+            "id": "standard",
+            "name": "Standard",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 12.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 59.88 },
+              { "id": "two_year", "label": "2-year", "months": 24, "amount": 83.76 }
+            ]
+          }
+        ]
+      },
+      "EUR": { "monthly": 12.99, "yearly": 59.88 },
+      "UAH": { "monthly": 499, "yearly": 2299 }
+    },
+    "notion": {
+      "USD": { "monthly": 10, "yearly": 96 },
+      "EUR": { "monthly": 10, "yearly": 96 },
+      "UAH": { "monthly": 399, "yearly": 3830 }
+    },
+    "dropbox": {
+      "USD": { "monthly": 11.99, "yearly": 119.88 },
+      "EUR": { "monthly": 11.99, "yearly": 119.88 },
+      "UAH": { "monthly": 449, "yearly": 4490 }
+    },
+    "duolingo": {
+      "USD": { "monthly": 12.99, "yearly": 83.99 },
+      "EUR": { "monthly": 12.99, "yearly": 83.99 },
+      "UAH": { "monthly": 499, "yearly": 3199 }
+    },
+    "megogo": {
+      "UAH": { "monthly": 149, "yearly": 1490 }
+    },
+    "sweet_tv": {
+      "UAH": { "monthly": 199, "yearly": 1990 }
+    },
+    "kyivstar_tv": {
+      "UAH": { "monthly": 120, "yearly": 1200 }
+    },
+    "glovo_plus": {
+      "UAH": { "monthly": 99, "yearly": 990 }
+    },
+    "rozetka_premium": {
+      "UAH": { "monthly": 79, "yearly": 790 }
+    },
+    "uklon_pass": {
+      "UAH": { "monthly": 149, "yearly": 1490 }
+    },
+    "discord": {
+      "USD": {
+        "plans": [
+          {
+            "id": "nitro_basic",
+            "name": "Nitro Basic",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 2.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 29.99 }
+            ]
+          },
+          {
+            "id": "nitro",
+            "name": "Nitro",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 9.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 99.99 }
+            ]
+          }
+        ]
+      },
+      "EUR": {
+        "plans": [
+          {
+            "id": "nitro_basic",
+            "name": "Nitro Basic",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 2.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 29.99 }
+            ]
+          },
+          {
+            "id": "nitro",
+            "name": "Nitro",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 9.99 },
+              { "id": "yearly", "label": "Yearly", "months": 12, "amount": 99.99 }
+            ]
+          }
+        ]
+      }
+    },
+    "telegram_premium": {
+      "USD": { "monthly": 4.99, "yearly": 59.99 },
+      "EUR": { "monthly": 4.99, "yearly": 59.99 }
+    },
+    "snapchat_plus": {
+      "USD": { "monthly": 3.99, "yearly": 39.99 }
+    },
+    "x_premium": {
+      "USD": {
+        "plans": [
+          {
+            "id": "basic",
+            "name": "Basic",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 3 }
+            ]
+          },
+          {
+            "id": "premium",
+            "name": "Premium",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 8 }
+            ]
+          },
+          {
+            "id": "premium_plus",
+            "name": "Premium+",
+            "options": [
+              { "id": "monthly", "label": "Monthly", "months": 1, "amount": 16 }
+            ]
+          }
+        ]
+      }
+    },
+    "reddit_premium": {
+      "USD": { "monthly": 5.99, "yearly": 49.99 }
+    },
+    "adguard_vpn": {
+      "USD": { "monthly": 12.99, "yearly": 59.88 },
+      "EUR": { "monthly": 12.99, "yearly": 59.88 }
+    },
+    "adguard_premium": {
+      "USD": { "monthly": 2.99, "yearly": 24.99 },
+      "EUR": { "monthly": 2.99, "yearly": 24.99 }
+    },
+    "mullvad": {
+      "USD": { "monthly": 5 },
+      "EUR": { "monthly": 5 }
+    },
+    "apple_developer": {
+      "USD": { "yearly": 99 },
+      "EUR": { "yearly": 99 }
+    }
+  }
+}

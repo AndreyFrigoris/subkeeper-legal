@@ -16,6 +16,8 @@ Each Markdown file contains **EN / UK / RU** sections separated by `<!-- locale:
 
 `app-ads.txt` is **not** an in-app legal document. It lives only in this repo (GitHub Pages root) so AdMob can verify publisher `pub-5308769401439593`. Do not copy it into `keeper_app/legal/`.
 
+The price catalog is [`pricing/service_prices.json`](pricing/service_prices.json), a public copy of `keeper_app/assets/pricing/service_prices.json`. The app downloads `https://subkeeper.app/pricing/service_prices.json` when someone taps refresh on add/edit. Update both copies together. This file is not a legal page.
+
 ## Play Console / store URL
 
 Privacy for store listings:

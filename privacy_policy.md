@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-Last updated: September 12, 2026
+Last updated: October 16, 2026
 
 Sub Keeper ("we", "the app") respects your privacy. This policy explains what information the app processes and how.
 
@@ -48,6 +48,14 @@ The app may:
 
 These catalog and rate requests do not include your full subscription list. Standard network metadata (such as IP address) may be processed by third-party hosts. We do not control their server logs.
 
+## Screenshot of a charge
+
+If you choose a screenshot, or share one into the app, the app reads its text **on this phone** to suggest a service, amount, and date. The image is not uploaded and is not kept after reading. A shared link is handled separately and is not read as a screenshot.
+
+## Bank statement
+
+If you choose a bank statement (PDF or CSV), or share one into the app, the app reads it **on this phone** to find subscriptions it recognizes. The file is not uploaded and is not kept after reading. Other payments in the file are ignored. Only the subscriptions you choose to add are saved on this phone, together with the rest of your subscription list.
+
 ## Notifications
 
 If you enable reminders, the app schedules **local notifications** on your device (including options such as quiet hours, weekly digest, custom reminder time, snooze, and price-change alerts where available). Notification content is generated locally from your subscriptions. We do not operate our own push-notification servers.
@@ -78,7 +86,7 @@ Rewarded ads do **not** unlock Premium or custom-subscription features beyond th
 
 ## Crash reporting
 
-We use **Firebase Crashlytics** (Google) to collect crash and stability reports so we can fix bugs. Reports may include device model, OS version, app version, stack traces, and similar technical diagnostics. They do **not** include your full subscription list or feedback message content.
+We use **Firebase Crashlytics** (Google) to collect crash and stability reports so we can fix bugs. Reports may include device model, OS version, app version, stack traces, and similar technical diagnostics. They do **not** include your full subscription list, feedback message content, or the text of a bank statement.
 
 Crash collection is intended for release and profile builds; development (debug) builds typically do not send reports. Google’s processing of Crashlytics data is subject to Google’s privacy terms for Firebase.
 
@@ -110,7 +118,7 @@ Depending on your location (including the EU/EEA and Ukraine), you may have righ
 
 # Політика конфіденційності
 
-Останнє оновлення: 12 вересня 2026
+Останнє оновлення: 16 жовтня 2026
 
 Sub Keeper («ми», «застосунок») поважає вашу конфіденційність. Ця політика пояснює, яку інформацію обробляє застосунок і як.
 
@@ -154,6 +162,14 @@ Sub Keeper («ми», «застосунок») поважає вашу конф
 
 Ці запити не містять повного списку ваших підписок. Мережеві метадані (IP) можуть оброблятися сторонніми хостами.
 
+## Скриншот списання
+
+Якщо ви обираєте скриншот або надсилаєте його через «Поділитися», застосунок читає текст **на цьому телефоні**, щоб підставити сервіс, суму і дату. Зображення нікуди не надсилається і не зберігається після читання. Посилання з «Поділитися» обробляється окремо і не читається як скриншот.
+
+## Банківська виписка
+
+Якщо ви обираєте банківську виписку (PDF або CSV) або надсилаєте її через «Поділитися», застосунок читає її **на цьому телефоні**, щоб знайти знайомі підписки. Файл нікуди не надсилається і не зберігається після читання. Інші платежі з файлу ігноруються. На телефоні зберігаються лише ті підписки, які ви самі додасте, разом із рештою списку.
+
 ## Сповіщення
 
 Якщо увімкнено нагадування, застосунок планує **локальні сповіщення** на пристрої (тихі години, щотижневий дайджест, свій час, snooze, сповіщення про ціну — за наявності). Вміст формується локально. Власних push-серверів у нас немає.
@@ -184,7 +200,7 @@ AdMob / сервіси Google можуть обробляти **Advertising ID**
 
 ## Звіти про збої
 
-Ми використовуємо **Firebase Crashlytics** (Google) для звітів про збої: модель пристрою, версія ОС і застосунку, stack trace та подібна технічна діагностика. **Повний список підписок** і текст feedback туди не потрапляють.
+Ми використовуємо **Firebase Crashlytics** (Google) для звітів про збої: модель пристрою, версія ОС і застосунку, stack trace та подібна технічна діагностика. **Повний список підписок**, текст feedback і текст банківської виписки туди не потрапляють.
 
 Збір зазвичай увімкнено в release / profile; у debug-збірках звіти зазвичай не надсилаються. Обробка Google — за умовами Firebase.
 
@@ -214,7 +230,7 @@ support@subkeeper.app
 
 # Политика конфиденциальности
 
-Последнее обновление: 12 сентября 2026
+Последнее обновление: 16 октября 2026
 
 Sub Keeper («мы», «приложение») уважает вашу конфиденциальность. Эта политика объясняет, какую информацию обрабатывает приложение и как.
 
@@ -258,6 +274,14 @@ Sub Keeper («мы», «приложение») уважает вашу конф
 
 Эти запросы не содержат полного списка ваших подписок. Сетевые метаданные (IP) могут обрабатываться сторонними хостами.
 
+## Скриншот списания
+
+Если вы выбираете скриншот или отправляете его через «Поделиться», приложение читает текст **на этом телефоне**, чтобы подставить сервис, сумму и дату. Изображение никуда не отправляется и не хранится после чтения. Ссылка из «Поделиться» обрабатывается отдельно и не читается как скриншот.
+
+## Банковская выписка
+
+Если вы выбираете банковскую выписку (PDF или CSV) или отправляете её через «Поделиться», приложение читает её **на этом телефоне**, чтобы найти знакомые подписки. Файл никуда не отправляется и не хранится после чтения. Остальные платежи из файла игнорируются. На телефоне сохраняются только те подписки, которые вы сами добавите, вместе с остальным списком.
+
 ## Уведомления
 
 Если напоминания включены, приложение планирует **локальные уведомления** на устройстве (тихие часы, еженедельный дайджест, своё время, snooze, уведомления о цене — при наличии). Содержание формируется локально. Собственных push-серверов у нас нет.
@@ -288,7 +312,7 @@ AdMob / сервисы Google могут обрабатывать **Advertising 
 
 ## Отчёты о сбоях
 
-Мы используем **Firebase Crashlytics** (Google) для отчётов о сбоях: модель устройства, версия ОС и приложения, stack trace и похожая техническая диагностика. **Полный список подписок** и текст feedback туда не попадают.
+Мы используем **Firebase Crashlytics** (Google) для отчётов о сбоях: модель устройства, версия ОС и приложения, stack trace и похожая техническая диагностика. **Полный список подписок**, текст feedback и текст банковской выписки туда не попадают.
 
 Сбор обычно включён в release / profile; в debug-сборках отчёты обычно не отправляются. Обработка Google — по условиям Firebase.
 

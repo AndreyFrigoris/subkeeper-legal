@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-Last updated: October 17, 2026
+Last updated: October 26, 2026
 
 Sub Keeper ("we", "the app") respects your privacy. This policy explains what information the app processes and how.
 
@@ -13,7 +13,7 @@ Sub Keeper ("we", "the app") respects your privacy. This policy explains what in
 - With your permission, we use **approximate location to detect your country** for regional price suggestions
 - Optional feedback you send is delivered via **Telegram Bot API**
 - Optional tips and Premium purchases are processed by **Google Play** or the **App Store**
-- On Android, optional **rewarded ads** (Google AdMob) may use the device advertising ID
+- On Android and iPhone, an optional **rewarded ad** (Google AdMob) can unlock one extra subscription slot. On Android, AdMob may use the advertising ID. On iPhone the app does not ask permission to track you across other apps
 - We use **Firebase Crashlytics** for crash reports (not for marketing analytics)
 - Optional **ratings** go through Google Play or the App Store, not our servers
 - We do **not** sell your personal data
@@ -76,11 +76,11 @@ Optional **tips** and **Premium** purchases (when available) are processed by Ap
 
 You may export or import a backup file (JSON) from Settings. Export/import happens on your device or through the system share sheet / file picker you choose. We do not host your backup files on our servers.
 
-## Ads (Android)
+## Ads
 
-On Android, if you reach the free subscription limit, you may choose to watch an optional **rewarded ad** (Google AdMob) to unlock one extra subscription slot. We do not show banner or interstitial ads.
+On Android and iPhone, if you reach the free subscription limit, you may choose to watch an optional **rewarded ad** (Google AdMob) to unlock one extra subscription slot. We do not show banner or interstitial ads.
 
-AdMob and related Google advertising services may process device identifiers such as the **Advertising ID**, approximate device/network information, and ad interaction data to deliver and measure ads. This processing is subject to Google’s privacy policies. You can reset or limit the Advertising ID in your device settings.
+On Android, AdMob may process the **Advertising ID**. You can reset or limit it in your device settings. On iPhone, the app does not show Apple’s tracking permission prompt. AdMob may still process approximate device and network information and ad interaction data to deliver and measure the ad. This processing is subject to Google’s privacy policies.
 
 Rewarded ads do **not** unlock Premium or custom-subscription features beyond the documented bonus slot.
 
@@ -118,7 +118,7 @@ Depending on your location (including the EU/EEA and Ukraine), you may have righ
 
 # Політика конфіденційності
 
-Останнє оновлення: 17 жовтня 2026
+Останнє оновлення: 26 жовтня 2026
 
 Sub Keeper («ми», «застосунок») поважає вашу конфіденційність. Ця політика пояснює, яку інформацію обробляє застосунок і як.
 
@@ -129,7 +129,7 @@ Sub Keeper («ми», «застосунок») поважає вашу конф
 - З вашого дозволу використовується **приблизна геолокація для визначення країни** та підказок цін
 - Необов’язковий feedback надсилається через **Telegram Bot API**
 - Чайові та покупки Premium обробляють **Google Play** або **App Store**
-- На Android можлива **винагороджувальна реклама** (Google AdMob) з Advertising ID
+- На Android і iPhone можлива **винагороджувальна реклама** (Google AdMob) за додатковий слот. На Android AdMob може використовувати Advertising ID. На iPhone застосунок не питає дозвіл відстежувати вас в інших застосунках
 - Для звітів про збої використовується **Firebase Crashlytics** (не маркетингова аналітика)
 - Необов’язкові **оцінки** проходять через Google Play або App Store, не через наші сервери
 - Ми **не продаємо** ваші персональні дані
@@ -190,11 +190,11 @@ Sub Keeper («ми», «застосунок») поважає вашу конф
 
 Ви можете експортувати / імпортувати резервну копію (JSON) у Налаштуваннях. Файли залишаються у вас (share sheet / файловий менеджер). Ми не хостимо ваші бекапи.
 
-## Реклама (Android)
+## Реклама
 
-На Android після досягнення безкоштовного ліміту підписок ви можете за бажанням переглянути **винагороджувальну рекламу** (Google AdMob), щоб отримати +1 слот. Банерів і interstitial немає.
+На Android і iPhone після досягнення безкоштовного ліміту підписок ви можете за бажанням переглянути **винагороджувальну рекламу** (Google AdMob), щоб отримати +1 слот. Банерів і interstitial немає.
 
-AdMob / сервіси Google можуть обробляти **Advertising ID**, приблизні дані пристрою/мережі та взаємодію з рекламою. Це регулюється політиками Google. Advertising ID можна скинути або обмежити в налаштуваннях пристрою.
+На Android AdMob може обробляти **Advertising ID**. Його можна скинути або обмежити в налаштуваннях пристрою. На iPhone застосунок не показує системне вікно дозволу на відстеження. AdMob усе одно може обробляти приблизні дані пристрою/мережі та взаємодію з рекламою, щоб показати ролик і виміряти його. Це регулюється політиками Google.
 
 Реклама **не** відкриває Premium і не розблоковує custom поза задокументованим бонус-слотом.
 
@@ -230,7 +230,7 @@ support@subkeeper.app
 
 # Политика конфиденциальности
 
-Последнее обновление: 17 октября 2026
+Последнее обновление: 26 октября 2026
 
 Sub Keeper («мы», «приложение») уважает вашу конфиденциальность. Эта политика объясняет, какую информацию обрабатывает приложение и как.
 
@@ -241,7 +241,7 @@ Sub Keeper («мы», «приложение») уважает вашу конф
 - С вашего разрешения используется **приблизительная геолокация для определения страны** и подсказок цен
 - Необязательный feedback отправляется через **Telegram Bot API**
 - Чаевые и покупки Premium обрабатывают **Google Play** или **App Store**
-- На Android возможна **вознаграждаемая реклама** (Google AdMob) с Advertising ID
+- На Android и iPhone возможна **вознаграждаемая реклама** (Google AdMob) за дополнительный слот. На Android AdMob может использовать Advertising ID. На iPhone приложение не спрашивает разрешение отслеживать вас в других приложениях
 - Для отчётов о сбоях используется **Firebase Crashlytics** (не маркетинговая аналитика)
 - Необязательные **оценки** проходят через Google Play или App Store, не через наши серверы
 - Мы **не продаём** ваши персональные данные
@@ -302,11 +302,11 @@ Sub Keeper («мы», «приложение») уважает вашу конф
 
 Вы можете экспортировать / импортировать резервную копию (JSON) в Настройках. Файлы остаются у вас (share sheet / файловый менеджер). Мы не хостим ваши бэкапы.
 
-## Реклама (Android)
+## Реклама
 
-На Android после достижения бесплатного лимита подписок вы можете по желанию посмотреть **вознаграждаемую рекламу** (Google AdMob), чтобы получить +1 слот. Баннеров и interstitial нет.
+На Android и iPhone после достижения бесплатного лимита подписок вы можете по желанию посмотреть **вознаграждаемую рекламу** (Google AdMob), чтобы получить +1 слот. Баннеров и interstitial нет.
 
-AdMob / сервисы Google могут обрабатывать **Advertising ID**, приблизительные данные устройства/сети и взаимодействие с рекламой. Это регулируется политиками Google. Advertising ID можно сбросить или ограничить в настройках устройства.
+На Android AdMob может обрабатывать **Advertising ID**. Его можно сбросить или ограничить в настройках устройства. На iPhone приложение не показывает системное окно разрешения на отслеживание. AdMob всё равно может обрабатывать приблизительные данные устройства/сети и взаимодействие с рекламой, чтобы показать ролик и измерить его. Это регулируется политиками Google.
 
 Реклама **не** открывает Premium и не разблокирует custom сверх задокументированного бонус-слота.
 
